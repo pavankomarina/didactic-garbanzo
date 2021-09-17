@@ -6,3 +6,4 @@ A simple web application using No SQL database
 - Django
 - Django REST framework
 - Mongodb
+- Docker
