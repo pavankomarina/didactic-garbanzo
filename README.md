@@ -1,7 +1,8 @@
 # didactic-garbanzo
 
+## Expense tracker
+Backend service for expense tracker
 
-A simple web application using No SQL database
 ## Tech stack
 - Django
 - Django REST framework
