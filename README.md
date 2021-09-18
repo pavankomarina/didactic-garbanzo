@@ -4,7 +4,7 @@
 Backend service for expense tracker
 
 ## Features
-- crud operations to add/update expenses
+- CRUD operations to add/update expenses
 - analytics
 - User Management
 - Authentication and Authorization
