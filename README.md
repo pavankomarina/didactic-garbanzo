@@ -7,7 +7,7 @@ Backend service for expense tracker
 - CRUD operations to add/update expenses
 - analytics
 - User Management
-- Authentication and Authorization
+- Authentication using JWT
 
 
 ### Tech stack
