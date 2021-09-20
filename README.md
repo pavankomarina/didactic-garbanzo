@@ -16,4 +16,5 @@ Backend service for expense tracker
 - Django
 - Django REST framework
 - Mongodb
+- djongo
 - Docker
