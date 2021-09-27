@@ -18,3 +18,8 @@ Backend service for expense tracker
 - Mongodb
 - djongo
 - Docker
+
+## ToDO
+- create docker compose
+- create crud operations
+- use djongo for queries
