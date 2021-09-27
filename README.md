@@ -20,6 +20,6 @@ Backend service for expense tracker
 - Docker
 
 ## ToDO
-- create docker compose
-- create crud operations
+- create docker compose file
+- create crud operations api
 - use djongo for queries
