@@ -9,7 +9,7 @@ Backend service for expense tracker
 - CRUD operations to add/update expenses
 - analytics
 - User Management
-- Authentication using JWT
+- Authentication using Simple JWT
 
 
 ### Tech stack
@@ -19,4 +19,8 @@ Backend service for expense tracker
 - djongo
 - Docker
 
-### TODO
+
+## ToDO
+- create docker compose file
+- create crud operations api
+- use djongo for queries
